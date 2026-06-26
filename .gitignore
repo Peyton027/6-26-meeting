@@ -1,0 +1,4 @@
+*.csv
+*.tabular
+__pycache__/
+.vscode/
